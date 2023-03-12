@@ -1,0 +1,136 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Central Hawke's Bay Anglican Parish"
+theme = "alpha-church"
+themesDir = "../themes"
+
+rssLimit = 10
+paginate = 4
+
+enableEmoji = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+[menu]
+
+  [[menu.main]]
+    name = "Welcome"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    name = "New Here?"
+    url = "/new-here"
+    parent = "About"
+    weight = 1
+
+  [[menu.main]]
+    name = "Worship"
+    url = "/worship"
+    weight = 3
+
+  [[menu.main]]
+    name = "Services"
+    url = "/services"
+    parent = "Worship"
+    weight = 1
+
+  [[menu.main]]
+    name = "Groups"
+    url = "/groups"
+    parent = "Worship"
+    weight = 2
+
+  [[menu.main]]
+    name = "News & Events"
+    url = "/news"
+    weight = 4
+
+  [[menu.main]]
+    name = "Life Stages"
+    url = "/life-stages"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 6
+
+[params]
+  title = "Central Hawke's Bay Anglican Parish"
+  subtitle = "Bringing together people of all ages to worship God, grow together and serve God's world."
+  author = "jaywnz"
+  keywords = ["anglican", "central hawke's bay", "new zealand"]
+  languageCode = "en"
+  bible_popups = "faithlife" #faithlife, blb
+  bible_version = "ESV" #HCSB, NIV, NLT, ESV, etc.
+  instant_page = true
+
+  customCSS = ["/css/my.css"]
+
+  [params.favicon]
+    sml = "/img/favicon_sm.png"
+    #med = "/example32.png"
+    #lge = "example96.png"
+
+  [params.banner]
+    image = "img/st-marys-interior-blur.jpg"
+
+#  [params.style]
+#    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
+
+#  [params.podcast]
+#    title = "Listen to Alpha Church"
+#    summary = "Alpha-Church sermons, talks, messages—podcasted."
+#    email = "test@example.com"
+#    copyright = "The files in the podcast are in the public domain."
+#    image = "img/podcast-cover.jpg"
+#    category = "Religion & Spirituality"
+#    sub_category = "Christianity"
+#    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
+#    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
+#    spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
+
+  [params.map]
+    service = "osm"
+    latitude = "-39.99722"
+    longitude = "176.55466"
+    zoom = "17"
+
+  [params.contact]
+    service = "formspree"
+    formspree_formid="mleknaoq"
+
+    [params.footer]
+      copyright = ["© Central Hawke's Bay Anglican Parish",
+                   "Built with [Hugo](//gohugo.io)",
+                   "Theme: [Alpha Church](//github.com/funkydan2)"
+                  ]
+
+    [[params.links]]
+      service = "Facebook"
+      icon = "fa-facebook"
+      icon_pack = "fab"
+      link = "//facebook.com/chbanglicanparish/"
+
+    [[params.links]]
+      service = "Full RSS Feed"
+      icon = "fa-rss"
+      icon_pack = "fas"
+      link = "/news/index.xml"
