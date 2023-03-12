@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://main.ddvap65lxh35x.amplifyapp.com/"
 languageCode = "en-us"
 title = "Central Hawke's Bay Anglican Parish"
-theme = "alpha-church"
-themesDir = "../themes"
+# theme = "alpha-church"
+# themesDir = "../themes"
 
 rssLimit = 10
 paginate = 4
@@ -134,3 +134,7 @@ enableInlineShortcodes = true
       icon = "fa-rss"
       icon_pack = "fas"
       link = "/news/index.xml"
+
+[module]
+[[module.imports]]
+  path = 'github.com/funkydan2/alpha-church'
