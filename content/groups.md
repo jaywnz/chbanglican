@@ -10,7 +10,7 @@ There is much going on in the parish for people of all ages.
 
 * [Messy Church]({{<ref "#messy-church">}})
 * [Prayer, Pizza & Pinot]({{<ref "#ppp">}})
-* [St Mary's Fellowship Group]({{<ref "#fellowship">}})
+* [Social Services]({{<ref "#social-services">}})
 
 <hr>
 
@@ -38,14 +38,8 @@ This Group meets monthly throughout the year on Sundays at various venues at 5.3
 
 <hr>
 
-## St Mary's Fellowship Group {#fellowship}
+## Social Services {#social-services}
 
-The St Mary's Fellowship group focuses on the needs of our local community in whatever way we can: such as knitting, baking, raising funds for worthy causes and caring for one another.
-
-St Mary's Family Fellowship group meets in the Naera Lounge in St Mary's Hall at 1.30pm on the 3rd Tuesday of each month. 
-
-We have a membership of 18 church-based women, but would love to see more people join us.
-
-Our group is informal. Sometimes we have a speaker, sometimes an outing, other times an activity, a quiz or just a chat. Meetings are always followed by an afternoon tea organised by the committee member on duty for the day. 
-
-If you are interested in St Mary's Family Fellowship group, please come along to a meeting held in the Naera Lounge.
+* Growing through Grief
+* Pakeke Centre
+* Waiapu Kids

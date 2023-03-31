@@ -59,25 +59,14 @@ Heather Flavell<br>
 Phone: 06 8568393<br>
 [Email Heather](mailto:hj.otane@xtra.co.nz)
 
-### Associate Deacons
-Rosalie McCullough<br>
-Phone: 06 8578184<br>
-[Email Rosalie](mailto:rosandjohn@xtra.co.nz)
-
-Sybil Gibson<br>
-Phone: 06 8771007<br>
-[Email Sybil](mailto:jimandsybil@hotmail.com)
-
 ### Vestry
 Our vestry members are:
-* Janette Hudson (Vicar’s Warden)
-* John Waldin (People’s Warden)
-* David Ritchie
 * Bob Judd
-* Rev’d Deb Sutherland
-* Rev’d John Flavell
-* Birgitta Rolston
-* Mrs Chris Wheeler
+* Deb Sutherland
+* Heather Flavell
+* Donna Cruikshank
 * Ken Bateman
-* Shane Story
+* Irene White
+* Leonie Ward (People's Warden)
+* Rigitta Rolston (Vicar's Warden)
 * Secretary: Julie Irvine

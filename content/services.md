@@ -47,7 +47,7 @@ For more information on our special events, see [News & Events](/news).
 
 **30 April**
 
-* Combined Service TBC
+* Combined Service at St Mary's
 
 **7 May**
 
