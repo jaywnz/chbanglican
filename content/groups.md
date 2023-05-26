@@ -9,6 +9,7 @@ draft: false
 There is much going on in the parish for people of all ages.
 
 * [Messy Church]({{<ref "#messy-church">}})
+* [Home Group]({{<ref "#home-group">}})
 * [Prayer, Pizza & Pinot]({{<ref "#ppp">}})
 * [Social Services]({{<ref "#social-services">}})
 
@@ -29,6 +30,13 @@ Messy Church is part of a world wide expression of Church that focuses on:
 * All Ages: we don't divide people up; we do things together.
 
 [Visit Messy Church on Facebook](//facebook.com/people/Messy-Church-CHB/100068120029133/)
+
+<hr>
+
+## Home Group {#home-group}
+_St Mary's Vicarage_
+
+Every first and third Wednesday at 2:00pm. Always relaxed and thought-provoking sessions of shared reading and discussion. All very welcome!
 
 <hr>
 
