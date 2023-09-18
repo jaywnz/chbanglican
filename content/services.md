@@ -10,69 +10,33 @@ draft: false
 
 For more information on our special events, see [News & Events](/news).
 
-**5 March**
-
-* Waipukurau 9:30am
-* Waipawa 10:00am
-* Ormondville 10:30am
-* Messy Church 4:00pm
-
-**12 March**
+**24 September**
 
 * Waipukurau 9:30am
 * Otane 10:00am
 * Takapau 9:30am
 
-**19 March**
+**1 October**
 
 * Waipukurau 9:30am
 * Waipawa 10:00am
 * Ormondville 10:30am
 
-**26 March**
+**8 October**
 
+* Waipukurau 9:30am
 * Otane 10:00am
+* Takapau 9:30am
+* Waipawa (Messy Church) 4:00pm
 
-**2 April - Palm Sunday**
+**15 October**
 
 * Waipukurau 9:30am
 * Waipawa 10:00am
 * Ormondville 10:30am
-* Messy Church 4:00pm
 
-**6 April - Maundy Thursday**
-
-* Waipawa TBC
-
-**7 April - Good Friday**
-
-* Waipukurau 9:30am (Good Friday Walk)
-* Waipukurau 4:00pm
-
-**9 April - Easter Day**
+**22 October**
 
 * Waipukurau 9:30am
-* Waipawa 10:00am
 * Otane 10:00am
 * Takapau 9:30am
-
-**16 April**
-
-* Waipukurau 9:30am
-* Waipawa 10:00am
-* Epiphany 10:30am
-
-**23 April**
-
-* Waipukurau 9:30am
-* Takapau 9:30am
-* Otane 10:00am
-
-**30 April**
-
-* Combined Service TBC
-
-**7 May**
-
-* Waipukurau 9:30am
-* Waipawa 10:00am
