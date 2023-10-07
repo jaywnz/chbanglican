@@ -119,7 +119,7 @@ enableInlineShortcodes = true
 
     [params.footer]
       copyright = ["© Central Hawke's Bay Anglican Parish",
-                   "Built with [Hugo](//gohugo.io)",
+                   "Built with [Hugo](//gohugo.io) by [woodhams.net](//woodhams.net)",
                    "Theme: [Alpha Church](//github.com/funkydan2)"
                   ]
 
