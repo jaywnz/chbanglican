@@ -10,38 +10,16 @@ draft: false
 
 For more information on our special events, see [News & Events](/news).
 
-**8 October**
-
-* Waipukurau, 9:30am
-* Otane, 10:00am
-* Takapau, 9:30am
-* Waipawa (Messy Church), 4:00pm
-
-**15 October**
+**17 December**
 
 * Waipukurau, 9:30am
 * Waipawa, 10:00am
 * Ormondville, 10:30am
 
-**22 October**
+**24-25 December**
+
+* Please see our [Christmas Services announcement](/news/christmas-services-2023)
+
+**31 December**
 
 * Waipukurau, 9:30am
-* Otane, 10:00am
-* Takapau, 9:30am
-
-**29 October**
-
-* Waipukurau, 9:30am & [Joan's farewell](/news/joans-farewell) at 2:00pm
-
-**5 Nov**
-
-* Waipukurau, 9:30am
-* Waipawa, 10:00am
-* Ormondville, 10:30am
-
-**12 Nov**
-
-* Waipukurau, 9:30am
-* Takapau, 9:30am
-* Otane, 10:00am
-* Waipawa (Messy Church), 4:00pm
