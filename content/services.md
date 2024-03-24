@@ -6,20 +6,32 @@ subtitle: "Everyone is welcome"
 draft: false
 ---
 
-## 2023 Services
+## 2024 Services
 
 For more information on our special events, see [News & Events](/news).
 
-**17 December**
+For Holy Week, please see our [Easter Services announcement](/news/easter-services-2024)
+
+**7 April**
 
 * Waipukurau, 9:30am
 * Waipawa, 10:00am
 * Ormondville, 10:30am
 
-**24-25 December**
-
-* Please see our [Christmas Services announcement](/news/christmas-services-2023)
-
-**31 December**
+**14 April**
 
 * Waipukurau, 9:30am
+* Otane, 10:00am
+* Takapau, 9:30am
+* Messy Church, 2:00pm
+
+**21 April**
+
+* Waipukurau, 9:30am
+* Waipawa, 10:00am
+* Ormondville, 10:30am
+
+**28 April**
+
+* Waipukurau, 9:30am
+* Otane, 10:00am
