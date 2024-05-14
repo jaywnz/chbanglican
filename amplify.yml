@@ -1,0 +1,25 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - wget --no-verbose https://go.dev/dl/go1.22.3.linux-amd64.tar.gz
+        - rm -rf /usr/local/go 
+        - tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
+    build:
+      commands:
+        - export PATH=$PATH:/usr/local/go/bin
+        - go version
+        - wget https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extended_0.125.7_Linux-64bit.tar.gz
+        - tar -xf hugo_extended_0.125.7_Linux-64bit.tar.gz
+        - mv hugo /usr/bin/hugo 
+        - rm -rf hugo_extended_0.125.7_Linux-64bit.tar.gz
+        - hugo version
+        - hugo
+  artifacts:
+    # IMPORTANT - Please verify your build output directory
+    baseDirectory: /public
+    files:
+      - '**/*'
+  cache:
+    paths: []
