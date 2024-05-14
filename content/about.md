@@ -41,10 +41,10 @@ Our main churches are in Takapau, Waipukurau and Waipawa and we have several oth
 ## Our Team {#team}
 ### Vicar
 
-Joan Edmunson<br>
-Phone: 06 2114294<br>
-Mobile: 021930771<br>
-[Email Joan](mailto:chbvicar@waiapu.com)
+The Rev'd Deborah Broome<br>
+Phone: 06 8358230<br>
+Mobile: 021 509 107<br>
+[Email Deborah](mailto:deborah.broome@waiapu.com)
 
 ### Associate Priests
 Dot King<br>

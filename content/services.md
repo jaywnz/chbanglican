@@ -10,28 +10,19 @@ draft: false
 
 For more information on our special events, see [News & Events](/news).
 
-For Holy Week, please see our [Easter Services announcement](/news/easter-services-2024)
-
-**7 April**
+**19 May**
 
 * Waipukurau, 9:30am
 * Waipawa, 10:00am
 * Ormondville, 10:30am
 
-**14 April**
+**26 May**
 
 * Waipukurau, 9:30am
 * Otane, 10:00am
-* Takapau, 9:30am
-* Messy Church, 2:00pm
 
-**21 April**
+**2 June**
 
 * Waipukurau, 9:30am
 * Waipawa, 10:00am
 * Ormondville, 10:30am
-
-**28 April**
-
-* Waipukurau, 9:30am
-* Otane, 10:00am
