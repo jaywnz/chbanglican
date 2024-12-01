@@ -10,19 +10,16 @@ draft: false
 
 For more information on our special events, see [News & Events](/news).
 
-**19 May**
+**8 December, Advent 2**
 
-* Waipukurau, 9:30am
-* Waipawa, 10:00am
-* Ormondville, 10:30am
+* 9:30am, St Mary's, Waipukurau
+* 10:00am, Otane
+* 9:30am, Takapau
 
-**26 May**
+**15 December, Advent 3**
 
-* Waipukurau, 9:30am
-* Otane, 10:00am
+* 9:30am, Waipukurau
+* 10:00am, Waipawa
+* 10:30am, Ormondville
 
-**2 June**
-
-* Waipukurau, 9:30am
-* Waipawa, 10:00am
-* Ormondville, 10:30am
+Please see [News & Events](/news) for Christmas 2024 services.
