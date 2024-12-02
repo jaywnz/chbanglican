@@ -1,20 +1,20 @@
 baseURL = "https://chbanglican.org.nz/"
 languageCode = "en-us"
 title = "Central Hawke's Bay Anglican Parish"
-# theme = "alpha-church"
-# themesDir = "../themes"
+theme = "alpha-church"
 
-rssLimit = 10
-
-[pagination]
-  pagerSize = 4
+rssLimit = 5
+pagination.pagerSize = 4
 
 enableEmoji = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+[services]
+  [services.googleAnalytics]
+    ID = ""
 
-enableInlineShortcodes = true
+[security]
+  enableInlineShortcodes = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -24,8 +24,9 @@ enableInlineShortcodes = true
   preacher = "preachers"
   series = "series"
 
+#This theme can generate a multi-level menu.
+#Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
-
   [[menu.main]]
     name = "Welcome"
     url = "/"
@@ -74,17 +75,20 @@ enableInlineShortcodes = true
     url = "/contact"
     weight = 6
 
+# Paramaters for the whole site
 [params]
   title = "Central Hawke's Bay Anglican Parish"
   subtitle = "Bringing together people of all ages to worship God, grow together and serve God's world."
-  author = "jaywnz"
   keywords = ["anglican", "central hawke's bay", "new zealand"]
   languageCode = "en"
   bible_popups = "faithlife" #faithlife, blb
   bible_version = "ESV" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
-
   customCSS = ["/css/my.css"]
+
+  [params.author]
+    name = "jaywnz"
+    #email = "test@example.com"
 
   [params.favicon]
     sml = "/img/favicon_sm.png"
@@ -100,7 +104,6 @@ enableInlineShortcodes = true
 #  [params.podcast]
 #    title = "Listen to Alpha Church"
 #    summary = "Alpha-Church sermons, talks, messages—podcasted."
-#    email = "test@example.com"
 #    copyright = "The files in the podcast are in the public domain."
 #    image = "img/podcast-cover.jpg"
 #    category = "Religion & Spirituality"
@@ -110,10 +113,16 @@ enableInlineShortcodes = true
 #    spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
 
   [params.map]
-    service = "osm"
+    service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
+    # For Open Street Map widgets
     latitude = "-39.99722"
     longitude = "176.55466"
     zoom = "17"
+    # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
+    #service = "google"
+    #api_key = "XXXXXXXX"
+    #language = "fr" #Optional
+    #region = "FR" #Optional
 
   [params.contact]
     service = "formspree"
@@ -136,10 +145,3 @@ enableInlineShortcodes = true
       icon = "fa-rss"
       icon_pack = "fas"
       link = "/news/index.xml"
-
-[module]
-[[module.imports]]
-  path = 'github.com/funkydan2/alpha-church'
-  [module.hugoVersion]
-    extended = true
-    min = "0.120.0"
